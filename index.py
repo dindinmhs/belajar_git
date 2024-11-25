@@ -5,3 +5,4 @@ prodi = "Informatika"
 print(nama)
 print(nrp)
 print(prodi)
+print("tes")
